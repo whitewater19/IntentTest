@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentTest</string>
+    <string name="open_browser">開啟瀏覽器</string>
+    <string name="call">撥打電話</string>
+    <string name="camera">開啟相機</string>
+    <string name="map">開啟地圖</string>
+    <string name="album">開啟相簿</string>
+</resources>
